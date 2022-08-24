@@ -7,7 +7,7 @@ dotenv.config();
 const BaseAPI = axios.create({
     baseURL: process.env.BASE_URL,
     headers:{
-        "content-type": "applicatrion/x-www-form-urlencoded",
+        "content-type": "application/x-www-form-urlencoded",
         accept: "application/json"
     },
     transformRequest: [
