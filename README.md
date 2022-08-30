@@ -1,3 +1,3 @@
 # apinest
 
-Learning API Automation Test with JS
+Learning API Automation Test with JavaScript and Mocha and Chai
